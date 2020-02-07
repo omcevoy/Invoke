@@ -1,0 +1,4 @@
+Dudley	Doright	950000000	doright@uoregon.edu	dud lee do right	n	2020-02-01 X>
+Bobert	Bogus	950000001	bbogus@uoregon.edu	bobert bogus	y	
+Who	isit	950000002	who@uoregon.edu	wa ti chai	n	
+Tech	Test	950000003	techtest@uoregon.edu	tech test	n	2020-02-01 Z>2020-02-01 f>
